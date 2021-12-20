@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**KatharinaBursy/KatharinaBursy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my life as a Business Analytics student in Boston, MA. I am a Finance enthusiast with a passion for Fintech and Green Finance.  I have recently updated my GitHub profile in search of expanding my knowledge of this huge field and further my passion into Business Analytics and Finance.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My top skillsets
+1. Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+2. Tableau (creating vizualizations that efficiently convey information to the average reader)
+
+## I’m currently learning
+1. R Programming
+2. Data Management/ SQL
+3. Text Analytics & NLP
+4. Data Optimization
+
+Feel free to connect with me on [GitHub](https://github.com/KatharinaBursy) or [LinkedIn](https://www.linkedin.com/in/katharina-sabrina-bursy/) to learn more about me. I'd be more than happy to have a conversation!
+

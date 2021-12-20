@@ -13,5 +13,5 @@ Welcome to my life as a Business Analytics student in Boston, MA. I am a Finance
 3. Text Analytics & NLP
 4. Data Optimization
 
-Feel free to connect with me on [GitHub](https://github.com/KatharinaBursy) or [LinkedIn](https://www.linkedin.com/in/katharina-sabrina-bursy/) to learn more about me. I'd be more than happy to have a conversation!
+Feel free to connect with me on [GitHub](https://github.com/KatharinaBursy), [LinkedIn](https://www.linkedin.com/in/katharina-sabrina-bursy/) or [Tableau](https://public.tableau.com/app/profile/katharina.bursy#!/) to learn more about me. I'd be more than happy to have a conversation!
 

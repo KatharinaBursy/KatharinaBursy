@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my life as a Business Analytics student in Boston, MA. I am a Finance enthusiast with a passion for Fintech and Green Finance.  I have recently updated my GitHub profile in search of expanding my knowledge of this huge field and further my passion into Business Analytics and Finance.
+Welcome to my life as a Business Analytics student in Boston, MA. I am a Finance enthusiast with a passion for Fintech and Green Finance.  I have recently updated my GitHub profile in search of expanding my knowledge of this huge field and further my passion for Business Analytics and Finance.
 
 
 ## My top skillsets
